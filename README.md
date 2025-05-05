@@ -28,6 +28,7 @@
 
 ### 🚀 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kishor-sivakumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/kishor-sivakumar-b4a82025b](https://www.linkedin.com/in/kishor-sivakumar-b4a82025b)
+)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kishorsiva7777@gmail.com)
 
