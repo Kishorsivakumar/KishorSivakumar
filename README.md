@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Math for Machine Learning & ML Algorithms**
 - 🌱 I’ve completed **Python, SQL, NumPy, Pandas, Matplotlib, Seaborn**
-- 👨‍💻 My projects are available at [github.com/kishor-sivakumar](https://github.com/kishor-sivakumar)
+- 👨‍💻 My projects are available at [github.com/kishor-sivakumar](https://github.com/Kishorsivakumar)
 - 📫 How to reach me: **kishorsiva7777@gmail.com**
 - ⚡ Fun fact: I love turning raw data into smart solutions!
 
