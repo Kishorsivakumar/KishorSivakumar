@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Kishor</h1>
+<h1 align="center">Hi 👋, I'm Kishorsivakumar</h1>
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Explorer</h3>
 
 ---
